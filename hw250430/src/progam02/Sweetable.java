@@ -1,5 +1,10 @@
-package progam02;
+package programig02;
 
-public interface Sweetable {
-        void sweet();
+public class Delicious {
+	
+	interface SweetEdible {
+		void eat();
+		void sweet();
+	}
+
 }
